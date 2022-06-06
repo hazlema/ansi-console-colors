@@ -1,0 +1,16 @@
+{
+  "name": "ansi-console-colors",
+  "version": "1.0.4",
+  "description": "Creates a console.print function that accepts PCBoard color codes",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "Frosty",
+  "license": "MIT License",
+  "keywords": ["Ansi", "Term", "Terminal", "Console", "BBS"],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hazlema/ansi-console-colors.git"
+  }
+}
